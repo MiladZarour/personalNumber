@@ -1,0 +1,1 @@
+clear && gcc C-Assignment.c -o C-Assignment && ./C-Assignment
